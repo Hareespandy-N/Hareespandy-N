@@ -2,7 +2,9 @@
 
 <img src="assets/hero.svg" width="100%" alt="Hareespandy N | Robotics and Automation Engineer" />
 
-**ROBOTICS SOFTWARE • AUTONOMOUS MOBILE ROBOTS • INDUSTRIAL AUTOMATION • SYSTEM INTEGRATION**
+**Robotics & Automation Engineer | AMR • ASRS • Industrial Robots & Cobots | PLC/SCADA • ROS 2 • C++/Python | Smart Factory Integration**
+
+<sub>Autonomous navigation · Robotic manipulation · Industrial control · Intralogistics · Software integration · Commissioning</sub>
 
 [Engineering domains](#engineering-domains) · [Technical expertise](#technical-expertise) · [System architecture](#integrated-systems) · [Knowledge library](#engineering-knowledge-library) · [Connect](#connect)
 
