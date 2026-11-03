@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="430" viewBox="0 0 1440 430" role="img" aria-labelledby="t d">
+<title id="t">Haris Pandi N - Robotics and Automation Engineer</title><desc id="d">Engineering portfolio banner with four industrial robotics disciplines: mobile robotics, automated storage, collaborative robotics, and industrial control.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070f1f"/><stop offset=".51" stop-color="#0d2034"/><stop offset="1" stop-color="#0a1727"/></linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#3be8e7"/><stop offset="1" stop-color="#5daeff"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#142f47"/><stop offset="1" stop-color="#0b1b30"/></linearGradient>
+  <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#5fdff8" stroke-width=".8" opacity=".08"/></pattern>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<rect width="1440" height="430" rx="20" fill="url(#bg)"/>
+<rect width="1440" height="430" rx="20" fill="url(#grid)"/>
+<circle cx="1210" cy="95" r="190" fill="#185b8e" opacity=".14" filter="url(#glow)"/>
+<path d="M0 374 C300 322 452 455 720 398 S1190 300 1440 369" fill="none" stroke="#66d5ed" stroke-width="2" opacity=".13"/>
+<rect x="54" y="48" width="7" height="18" rx="3.5" fill="#4fe5e3"/>
+<text x="78" y="63" fill="#81c8dc" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="17" letter-spacing="4.0" font-weight="600">ROBOTICS  /  AUTOMATION  /  INDUSTRIAL SYSTEMS</text>
+<text x="53" y="159" fill="#f5fbff" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="65" font-weight="800" letter-spacing=".2">HARIS PANDI N</text>
+<rect x="54" y="185" width="59" height="4" rx="2" fill="url(#cyan)"/>
+<text x="54" y="232" fill="#61eced" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="28" font-weight="600">Robotics &amp; Automation Engineer</text>
+<text x="54" y="279" fill="#bdd1e1" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="19">Building intelligent automation across robots,</text>
+<text x="54" y="307" fill="#bdd1e1" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="19">storage, machines and connected factories.</text>
+<path d="M54 351H667" stroke="#6687a1" stroke-width="1.3" opacity=".45"/>
+<g font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="15.5" font-weight="700" letter-spacing="1.0">
+<text x="54" y="380" fill="#65f0e7">AMR</text><text x="126" y="380" fill="#496c84">/</text>
+<text x="153" y="380" fill="#b3a3ff">ASRS</text><text x="249" y="380" fill="#496c84">/</text>
+<text x="277" y="380" fill="#7ae8b8">COBOTS</text><text x="403" y="380" fill="#496c84">/</text>
+<text x="431" y="380" fill="#ffc080">PLC + SCADA</text></g>
+<!-- industrial orchestration panel -->
+<rect x="743" y="44" width="652" height="343" rx="21" fill="url(#panel)" stroke="#2b6586" stroke-width="1.5"/>
+<rect x="761" y="60" width="615" height="37" rx="9" fill="#0e283d"/>
+<circle cx="786" cy="79" r="5" fill="#52e9e5"/><text x="803" y="85" fill="#94c5d5" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">CONNECTED FACTORY SYSTEMS</text>
+<path d="M1069 120V152M885 171H1253M885 171V189M1069 171V189M1253 171V189" fill="none" stroke="#62b9d9" stroke-width="2.4" stroke-linecap="round" opacity=".78"/>
+<rect x="933" y="106" width="271" height="46" rx="11" fill="#142e47" stroke="#56baf0" stroke-width="1.5"/>
+<text x="1069" y="125" fill="#8edfff" font-size="12" font-family="Arial,sans-serif" text-anchor="middle">ORCHESTRATION &amp; VISIBILITY</text>
+<text x="1069" y="142" fill="#f1fcff" font-size="17" font-weight="700" font-family="Arial,sans-serif" text-anchor="middle">Fleet  •  PLC  •  SCADA</text>
+<!-- mobile robot -->
+<g transform="translate(785,193)"><rect width="196" height="144" rx="13" fill="#091c2c" stroke="#22688b" stroke-width="1.4"/>
+<path d="M61 46h76l12 29H49z" fill="#1c6381" stroke="#50e7eb" stroke-width="2"/>
+<rect x="42" y="76" width="114" height="20" rx="10" fill="#17637b" stroke="#69e7ed" stroke-width="2"/>
+<circle cx="66" cy="96" r="9" fill="#071b27" stroke="#8dd6df" stroke-width="3"/><circle cx="130" cy="96" r="9" fill="#071b27" stroke="#8dd6df" stroke-width="3"/>
+<path d="M96 43V27m-23 0h46" stroke="#50e9e8" stroke-width="3" stroke-linecap="round"/><circle cx="96" cy="23" r="6" fill="#56e6e2"/>
+<text x="98" y="126" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#bde7ed" font-weight="700">AMR / MOBILE</text></g>
+<!-- ASRS warehouse -->
+<g transform="translate(993,193)"><rect width="183" height="144" rx="13" fill="#091c2c" stroke="#4f4a9a" stroke-width="1.4"/>
+<g stroke="#9b90f0" stroke-width="2" fill="none"><path d="M49 29v69m36-69v69m36-69v69m36-69v69M49 29h108M49 64h108M49 98h108"/></g>
+<g fill="#50499e"><rect x="56" y="35" width="21" height="21" rx="2"/><rect x="92" y="35" width="21" height="21" rx="2"/><rect x="128" y="35" width="21" height="21" rx="2"/>
+<rect x="56" y="70" width="21" height="21" rx="2"/><rect x="92" y="70" width="21" height="21" rx="2"/><rect x="128" y="70" width="21" height="21" rx="2"/></g>
+<path d="M86 99V26" stroke="#eee3ff" stroke-width="3.2" stroke-dasharray="5 5"/>
+<text x="92" y="126" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#cbc4ff" font-weight="700">ASRS / STORAGE</text></g>
+<!-- cobot -->
+<g transform="translate(1188,193)"><rect width="182" height="144" rx="13" fill="#091c2c" stroke="#287d65" stroke-width="1.4"/>
+<path d="M43 102h106" stroke="#5ed9a2" stroke-width="3"/><rect x="80" y="88" width="33" height="13" rx="3" fill="#1d7e68"/>
+<path d="M96 87L70 71L98 44L127 65" stroke="#5ae3a9" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<circle cx="96" cy="87" r="9" fill="#123f36" stroke="#abf1d0" stroke-width="3"/><circle cx="70" cy="71" r="8" fill="#123f36" stroke="#abf1d0" stroke-width="3"/><circle cx="98" cy="44" r="8" fill="#123f36" stroke="#abf1d0" stroke-width="3"/>
+<path d="M127 65l10-8m-10 8 10 8" stroke="#90ebbd" stroke-width="4" stroke-linecap="round"/>
+<text x="91" y="126" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#b1f3d3" font-weight="700">COBOTS / ARMS</text></g>
+<text x="768" y="366" fill="#789fb4" font-size="13" font-family="Arial,sans-serif">ENGINEERING   •   INTEGRATION   •   VALIDATION</text>
+</svg>
