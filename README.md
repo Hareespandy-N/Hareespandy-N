@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Haris Pandi N — Robotics and Automation Engineer | AMR, ASRS, Cobots, PLC and SCADA" />
+  <img src="assets/hero.svg" width="100%" alt="Hareespandy N — Robotics and Automation Engineer | AMR, ASRS, Cobots, PLC and SCADA" />
 
   <p><strong>Engineering intelligent automation from mobile robots to connected factories.</strong></p>
   <p>
@@ -11,7 +11,7 @@
   </p>
 </div>
 
-## Hello, I'm Haris
+## Hello, I'm Hareespandy N
 
 I'm a **Robotics & Automation Engineer** working across autonomous systems, industrial controls, robot-to-equipment integration and production-floor operations.
 

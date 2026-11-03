@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="430" viewBox="0 0 1440 430" role="img" aria-labelledby="t d">
-<title id="t">Haris Pandi N - Robotics and Automation Engineer</title><desc id="d">Engineering portfolio banner with four industrial robotics disciplines: mobile robotics, automated storage, collaborative robotics, and industrial control.</desc>
+<title id="t">Hareespandy N - Robotics and Automation Engineer</title><desc id="d">Engineering portfolio banner with four industrial robotics disciplines: mobile robotics, automated storage, collaborative robotics, and industrial control.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070f1f"/><stop offset=".51" stop-color="#0d2034"/><stop offset="1" stop-color="#0a1727"/></linearGradient>
   <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#3be8e7"/><stop offset="1" stop-color="#5daeff"/></linearGradient>
@@ -13,7 +13,7 @@
 <path d="M0 374 C300 322 452 455 720 398 S1190 300 1440 369" fill="none" stroke="#66d5ed" stroke-width="2" opacity=".13"/>
 <rect x="54" y="48" width="7" height="18" rx="3.5" fill="#4fe5e3"/>
 <text x="78" y="63" fill="#81c8dc" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="17" letter-spacing="4.0" font-weight="600">ROBOTICS  /  AUTOMATION  /  INDUSTRIAL SYSTEMS</text>
-<text x="53" y="159" fill="#f5fbff" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="65" font-weight="800" letter-spacing=".2">HARIS PANDI N</text>
+<text x="53" y="159" fill="#f5fbff" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="65" font-weight="800" letter-spacing=".2">HAREESPANDY N</text>
 <rect x="54" y="185" width="59" height="4" rx="2" fill="url(#cyan)"/>
 <text x="54" y="232" fill="#61eced" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="28" font-weight="600">Robotics &amp; Automation Engineer</text>
 <text x="54" y="279" fill="#bdd1e1" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="19">Building intelligent automation across robots,</text>
