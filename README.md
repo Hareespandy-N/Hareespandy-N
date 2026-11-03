@@ -6,11 +6,14 @@
 
 <sub>Autonomous navigation · Robotic manipulation · Industrial control · Intralogistics · Software integration · Commissioning</sub>
 
-[Engineering domains](#engineering-domains) · [Technical expertise](#technical-expertise) · [System architecture](#integrated-systems) · [Knowledge library](#engineering-knowledge-library) · [Connect](#connect)
+[Professional portfolio](docs/portfolio.html) · [Engineering domains](#engineering-domains) · [Technical expertise](#technical-expertise) · [System architecture](#integrated-systems) · [Knowledge library](#engineering-knowledge-library) · [Connect](#connect)
 
 </div>
 
 ## Engineering profile
+
+**Professional portfolio:** [Hareespandy N | Robotics & Automation Engineer](docs/portfolio.html) · [Public GitHub profile](https://github.com/Hareespandy-N)
+
 
 I'm **Hareespandy N**, a **Robotics & Automation Engineer** with a background spanning autonomous mobile robotics, industrial robot systems, PLC/SCADA, automated material handling and software-based equipment integration.
 
